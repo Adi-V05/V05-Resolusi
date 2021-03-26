@@ -1,12 +1,14 @@
 Membuat konten
 - foto
   * product
-   - short
-   - boardshort
-   - T shirt
+buat-fitur-bahan
+  - DRY FIT
+  - light weight
+  - wind proof
   * lokasi
 - video
- * proses produksi
+ - proses kerja bahan
+main
 - VALUE Product
 - COPY WRITING
 
